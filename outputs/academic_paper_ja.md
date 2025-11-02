@@ -2,9 +2,6 @@
 
 **Meteorological Factors and Headache: A Three-Indicator Analysis of Atmospheric Pressure Variation, Humidity, and Sunshine Duration for Optimal Residential Location**
 
-平嶋 大志郎
-Daishiro Hirashima
-
 ---
 
 ## Abstract

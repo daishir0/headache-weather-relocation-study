@@ -333,8 +333,8 @@ plt.show()
 本研究を引用する場合は、以下の形式をご使用ください：
 
 ```
-Hirashima, D. (2024). Headache-Friendly Relocation Study: A Three-Indicator Analysis
-of Atmospheric Pressure, Humidity, and Sunshine Across 49 Regions in Japan and Overseas.
+Headache-Friendly Relocation Study: A Three-Indicator Analysis of Atmospheric Pressure,
+Humidity, and Sunshine Across 49 Regions in Japan and Overseas (2024).
 GitHub repository. https://github.com/daishir0/headache-weather-relocation-study
 ```
 
@@ -350,15 +350,6 @@ GitHub repository. https://github.com/daishir0/headache-weather-relocation-study
 - 頭痛でお悩みの方は、必ず医療機関を受診してください
 
 ---
-
-## 👤 著者 / Author
-
-**平嶋 大志郎 (Daishiro Hirashima)**
-
-- GitHub: [@daishir0](https://github.com/daishir0)
-- Repository: [headache-weather-relocation-study](https://github.com/daishir0/headache-weather-relocation-study)
-- Blog: [Path Finder Blog](https://blog.path-finder.jp/)
-- Email: daishiro.hirashima@gmail.com
 
 ---
 
